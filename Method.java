@@ -1,3 +1,5 @@
+//Lab_05-01-2023
+
 public class Method {
 
     static int met(int x){
